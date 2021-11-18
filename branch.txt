@@ -1,3 +1,7 @@
 branch practice
+<<<<<<< HEAD
 change in main
 to branch
+=======
+conflict
+>>>>>>> new_branch
